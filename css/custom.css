@@ -1,0 +1,20 @@
+/* Index Buttons properties */
+.button-position{
+    position: absolute;
+    right: 5%;
+    bottom: 3%;
+}
+
+.button-space{
+    margin: 10px;
+}
+
+/*Frame Style*/
+.frame-position{
+    position: absolute;
+    right: 5%;
+    bottom: 15%;
+    /*border: none;*/
+    height: 80%;
+    width: 40%;
+}
