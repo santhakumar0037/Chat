@@ -14,7 +14,27 @@
     position: absolute;
     right: 5%;
     bottom: 15%;
-    /*border: none;*/
     height: 80%;
     width: 40%;
+    border:none;
+}
+
+.frame-hide{
+    display: none;
+}
+
+/*Submit text box*/
+#textBox{
+    position: absolute;
+    bottom: 0%;
+    width: 100%;
+}
+
+#submit-box{
+    width: 90%;
+    border-right:none;
+}
+
+#submit-button{
+    border-left:none;
 }
